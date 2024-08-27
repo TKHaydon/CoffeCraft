@@ -606,7 +606,7 @@ a:link {
         .brand:hover {
             color:#C1730E;
             font-style: bold;
-            text-shadow: -1px 1px 0 #2f332d, 1px 1px 0 #2f332d, 2px -5px 0 #2f332d;
+            text-shadow: -1px 1px 0 #2f332d, 1px 1px 0 #2f332d, 2px -2px 0 #2f332d;
         }  
 
         .productimage:hover {
