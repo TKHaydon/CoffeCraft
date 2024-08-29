@@ -352,10 +352,7 @@ animation: fade-me-in100 4s;
 /* NAVBAR DIV STYLE END* /
 
 /* NAVBARBOTTOM DIV STYLE START */
-#navbarbottom {background: linear-gradient(to right,
-    hsla(0.1, 0%, 100%, 95%),
-    rgb(47, 51, 45),
-    hsla(0.1, 0%, 100%, 95%)); 
+#navbarbottom {background:#000000;
     position:fixed;
     z-index: 999;
     border-radius: 2px;
@@ -756,14 +753,6 @@ a:link {
             color:#C4BEB5;
             text-decoration-line: line-through;
             font-style: italic;
-
 }
-/*  /* MEDIA QUERIES MOBILE VERSION END */ */
-        
-
-
-
-
-
-
-    
+}
+/*  /* MEDIA QUERIES MOBILE VERSION END */ 
