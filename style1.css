@@ -557,7 +557,7 @@ a:link {
     }
 /* CLASSES FOR CONTACT FORM STYLES START */
 
-    /* MEDIA QUERIES MOBILE START */
+/* MEDIA QUERIES MOBILE START */
     @media only screen and (max-device-width: 480px) {
         
         .mouseovermenu {
@@ -672,6 +672,7 @@ a:link {
             flex-direction: column;
             justify-content: center;
             background-image: none;
+            margin-bottom: 60px;
             font-size: 10px;
             opacity: 100%;
             position: relative;
@@ -703,8 +704,9 @@ a:link {
             align-items: center;
             flex-direction: column;
             justify-content: center;
-            opacity: 1005;
+            opacity: 100%;
             background-image: none;
+            margin-bottom: 60px;
             font-size: 10px;
             position: relative;
             transform: translate(0, 35px);
@@ -731,6 +733,7 @@ a:link {
             display: flex;
             justify-content: center;
             background-color:#4D693A;
+            margin-bottom: 50px;
             border-radius: 15px;
             opacity: 100%;
             font-size: 20px;
@@ -753,9 +756,8 @@ a:link {
             color:#C4BEB5;
             text-decoration-line: line-through;
             font-style: italic;
-    }
 
-    
+}
 /*  /* MEDIA QUERIES MOBILE VERSION END */ */
         
 
