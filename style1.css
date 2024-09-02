@@ -543,7 +543,7 @@ a:link {
     display: flex;
     justify-content: center;
     background-color:#4D693A;
-    border-radius: 5px;
+    border-radius: 15px;
     opacity: 100%;
     font-size: 20px;
     position: relative;                      
